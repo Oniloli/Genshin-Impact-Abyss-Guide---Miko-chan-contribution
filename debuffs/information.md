@@ -16,7 +16,7 @@ Debuff auras cover a massive area of the Arena. There are 4 types of Debuff aura
 | **Timer** | 15s |
 | **Duration** | 20s |
 
-The main difference between enemy auras and Ley Line Disorders are that enemy auras are generally harder to cleanse with specific characters.
+The main differences between enemy auras and Ley Line Disorders are that enemy auras are generally harder to cleanse with specific characters. The duration of enemy auras also cannot be reduced by using elemental resonance.
 
 <table>
   <thead>
