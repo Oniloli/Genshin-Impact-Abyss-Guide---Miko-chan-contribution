@@ -9,3 +9,7 @@
 * [Earthquakes](auras-1/earthquakes.md)
 * [Bubbles](auras-1/bubbles.md)
 
+## Debuffs
+
+* [Information](debuffs/information.md)
+
