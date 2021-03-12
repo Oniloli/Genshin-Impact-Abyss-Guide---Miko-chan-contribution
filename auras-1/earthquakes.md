@@ -1,5 +1,7 @@
 # Earthquakes
 
+
+
 |  |  |
 | :--- | :--- |
 | **Damage Type** | **Geo** |

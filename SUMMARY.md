@@ -7,4 +7,5 @@
 * [Electro Triangle](auras-1/electro-triangle.md)
 * [Fireballs](auras-1/fireballs.md)
 * [Earthquakes](auras-1/earthquakes.md)
+* [Bubbles](auras-1/bubbles.md)
 
